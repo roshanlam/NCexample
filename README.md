@@ -20,3 +20,8 @@ To set up node-gyp, execute the command `npm install g node-gyp`.
 
 # Step 3
 After you have installed the package for C/C++ code compilation, configure node-gyp within the project. First, create binding.gyp file inside the project. This file will contain information about node-gyp functioning.
+
+# Step 4
+Write and compile addon code
+
+file: addon.cc
