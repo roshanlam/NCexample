@@ -26,3 +26,10 @@ Write and compile addon code
 
 file: addon.cpp
 
+After writing the addon file, you can compile the addon with the help of `node-gyp configure build` command.
+
+# Step 5
+The last step is to create a general JS file to test the compiled addon in action.
+
+Create “my_app.js” file in the root of project
+
