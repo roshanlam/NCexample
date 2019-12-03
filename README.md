@@ -24,4 +24,5 @@ After you have installed the package for C/C++ code compilation, configure node-
 # Step 4
 Write and compile addon code
 
-file: addon.cc
+file: addon.cpp
+
